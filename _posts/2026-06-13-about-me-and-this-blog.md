@@ -100,7 +100,7 @@ If your interests overlap with any of these areas, I'd be happy to connect and e
 
 You can contact me directly using the form below.
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/maqzjkzq" method="POST">
 
 <label for="name">Name</label><br> <input type="text" id="name" name="name" required>
 
@@ -130,9 +130,11 @@ You can contact me directly using the form below.
 
 You can also reach me through:
 
-* LinkedIn
-* GitHub
-* Email
+**Email:** [d.karukkuvelraj@gmail.com](mailto:d.karukkuvelraj@gmail.com)
+
+**GitHub:** https://github.com/karukkuvelaero
+
+**LinkedIn:** https://www.linkedin.com/in/karukkuvel-raj-d
 
 Links are available throughout this website and on the Contact page.
 
