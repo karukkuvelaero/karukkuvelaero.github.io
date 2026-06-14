@@ -71,11 +71,13 @@ Download my latest resume below.
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| ASEP — Associate Systems Engineering Professional | INCOSE |
-| Requirements Writing | University of South Wales |
-| Development of Real-Time Embedded Systems | EIT Digital |
+|
+| Certification | Issuer | Verify |
+|---|---|---|
+| **ASEP** — Associate Systems Engineering Professional | INCOSE | [🔗 Credential](https://www.credential.net/c4dab0c3-a908-4629-be27-ef290810264a) |
+| Requirements Writing | University of South Wales | [🔗 Certificate](https://www.coursera.org/account/accomplishments/records/ZLU12T6OIS3H) |
+| Development of Real-Time Embedded Systems | EIT Digital | [🔗 Certificate](https://www.coursera.org/account/accomplishments/records/NGQQ8FTFSRAJ) |
+| Kalman Filter Boot Camp and State Estimation | University of Colorado System | [🔗 Certificate](https://www.coursera.org/account/accomplishments/records/PIEZIYX657N0) |
 
 ---
 

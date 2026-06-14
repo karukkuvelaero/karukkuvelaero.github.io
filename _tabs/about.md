@@ -17,18 +17,16 @@ order: 1
     <p style="margin:0;">
       <a href="https://github.com/karukkuvelaero" target="_blank"><i class="fab fa-github"></i> GitHub</a>
       &nbsp;·&nbsp;
-      <a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/karukkuvel-raj-d" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </p>
   </div>
 </div>
 
 ## Professional Summary
 
-Avionics Systems Engineer with hands-on experience across the full systems engineering lifecycle — from UAV flight control system development and PX4 autopilot integration, to civil business jet avionics covering landing gear control units, engine electrical interfaces, and power distribution systems.
+Avionics Systems Engineer with around two years of professional experience across UAV flight control systems and civil business jet avionics. My work has spanned PX4 autopilot integration, VTOL/multirotor flight testing, Capella/ARCADIA-based MBSE, and civil avionics subsystem engineering covering landing gear control units, engine electrical interfaces, and power distribution systems.
 
-Holds the **Associate Systems Engineering Professional (ASEP)** certification from INCOSE. Pursuing the intersection of **SPARK Ada**, Model-Based Development, and **DO-178C / DO-331** certification workflows for flight-critical embedded systems, with a long-term research goal in this domain at IIT Madras.
-
-Core competencies span **ARP4754A** V&V workflows, **MBSE using Capella/ARCADIA**, bare-metal embedded development in Ada and C++, and safety-critical avionics standards across civil and UAV domains.
+I hold the **INCOSE ASEP** certification, which reflects structured study across the full systems engineering lifecycle. I am currently building depth in **ARP4754A** through a self-directed project applying the safety process — FHA, PSSA, and SSA — to a bare-metal Ada implementation on an STM32 microcontroller. This is active learning, not professional certification experience, and I represent it as such.
 
 ---
 
@@ -42,12 +40,13 @@ Core competencies span **ARP4754A** V&V workflows, **MBSE using Capella/ARCADIA*
 ---
 
 ## Certifications
-
-| Certification | Issuer |
-|---|---|
-| **ASEP** — Associate Systems Engineering Professional | INCOSE |
-| Requirements Writing | University of South Wales |
-| Development of Real-Time Embedded Systems | EIT Digital |
+ 
+| Certification | Issuer | Verify |
+|---|---|---|
+| **ASEP** — Associate Systems Engineering Professional | INCOSE | [🔗 Credential](https://www.credential.net/c4dab0c3-a908-4629-be27-ef290810264a) |
+| Requirements Writing | University of South Wales | [🔗 Certificate](https://www.coursera.org/account/accomplishments/records/ZLU12T6OIS3H) |
+| Development of Real-Time Embedded Systems | EIT Digital | [🔗 Certificate](https://www.coursera.org/account/accomplishments/records/NGQQ8FTFSRAJ) |
+| Kalman Filter Boot Camp and State Estimation | University of Colorado System | [🔗 Certificate](https://www.coursera.org/account/accomplishments/records/PIEZIYX657N0) |
 
 ---
 
@@ -55,29 +54,36 @@ Core competencies span **ARP4754A** V&V workflows, **MBSE using Capella/ARCADIA*
 
 - 🏆 **GATE Aerospace 2021** — All India Rank **665**
 - 🏅 **Rajyapuraskar Award** — Recipient from the Governor of Tamil Nadu
-- 🎓 **University Rank 18** — B.E. Aeronautical Engineering, Apollo Engineering College
+- 🎓 **University Rank 18** — B.E. Aeronautical Engineering
 
 ---
 
 ## Technical Skills
 
-### Flight Controls & UAV Systems
-`PX4 Autopilot` `VTOL Systems` `LQR` `PID` `Flight Testing` `NuttX` `FreeRTOS` `MAVLink` `QGroundControl`
+> Skills are listed at the level I can honestly discuss in a technical interview. "Exposure" means I understand the concept and context but have not applied it professionally.
+{: .prompt-info }
 
-### Systems Engineering & MBSE
-`Capella` `ARCADIA` `SysML` `Papyrus` `Requirements Engineering` `V&V` `ICD Management` `Traceability`
+### Proficient — Used in professional work
 
-### Safety Standards & Processes
-`ARP4754A` `DO-178C` `DO-331` `FHA` `PSSA` `SSA` `DAL Assignment` `ARINC 429` `ARINC 629` `MIL-STD-1553B` `CAN`
+`PX4 Autopilot` `NuttX` `VTOL Systems` `Flight Testing` `MAVLink` `QGroundControl`
+`Capella` `ARCADIA` `MBSE` `Requirements Engineering`
+`MATLAB` `Simulink` `LQR` `PID` `PX4 SITL`
+`C++` `Python` `Git`
 
-### Embedded Development
-`Ada` `SPARK Ada` `C++` `STM32` `Alire` `gnat_arm_elf` `libopencm3` `gprbuild` `Bare-metal`
+### Actively Learning — Applying in self-directed projects
 
-### Simulation & Tooling
-`MATLAB` `Simulink` `PX4 SITL` `JSBSim` `Python` `Git` `CATIA` `AutoCAD`
+`Ada` `SPARK Ada` `STM32 Bare-metal` `Alire` `gnat_arm_elf` `libopencm3`
+`ARP4754A` `FHA` `PSSA` `SSA`
+`SysML` `Papyrus`
+
+### Exposure — Studied, aware of context and purpose
+
+`ARINC 429` `MIL-STD-1553B` `CAN` `ARINC 629`
+`DO-178C` `DO-331`
+`FreeRTOS` `JSBSim` `CATIA`
 
 ---
 
 ## Technical Interests
 
-Robust Control · SPARK Ada for Safety-Critical Systems · Model-Based Development · DO-178C Certification Workflows · ARP4754A Process Engineering · UAV Autonomy · State Estimation · Aerospace Embedded Systems
+Robust Control · Ada/SPARK Ada for Safety-Critical Systems · ARP4754A Process Engineering · Model-Based Systems Engineering · UAV Autonomy · State Estimation · Aerospace Embedded Systems

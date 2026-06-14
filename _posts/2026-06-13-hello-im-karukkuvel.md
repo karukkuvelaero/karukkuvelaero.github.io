@@ -44,19 +44,19 @@ I also built system architecture models using a tool called **Capella**, which i
 Three things set me apart from a typical early-career avionics engineer:
 
 **1. Both UAV and civil aircraft experience**  
-Most engineers early in their career have one or the other. I have hands-on UAV development experience *and* civil certification-aligned systems engineering experience — which makes me versatile across both domains.
+My professional background covers UAV flight control development at Killis Bird LLP and civil business jet avionics at Vijigi Intellect. These are different engineering environments and I have worked in both.
 
-**2. INCOSE ASEP certification at two years of experience**  
-This certification typically takes engineers several years of preparation. I passed it early, demonstrating formal grounding in the full systems engineering lifecycle — requirements, architecture, integration, verification, and validation.
+**2. INCOSE ASEP certification**  
+I hold the Associate Systems Engineering Professional certification from INCOSE, covering the full systems engineering lifecycle — requirements, architecture, integration, verification, and validation.
 
-**3. Programming in Ada for safety-critical systems**  
-I'm learning **Ada and SPARK Ada** — a programming language specifically used in aviation and defence software where correctness and safety are non-negotiable (think flight management systems, engine controllers). Very few engineers in India actively pursue this. I'm building a project that applies both the language and the aerospace safety process (ARP4754A) simultaneously.
+**3. Learning Ada for safety-critical embedded systems**  
+I am learning Ada and SPARK Ada through a self-directed bare-metal project on STM32, alongside studying the ARP4754A safety process. This is ongoing work, not completed experience.
 
 ---
 
 ## What Kind of Role Am I Looking For?
 
-I'm targeting roles in **major aerospace MNCs** — organisations like Airbus, Honeywell, Thales, Collins Aerospace, GE Aviation, Safran, or similar.
+I'm targeting systems engineering and avionics roles at established aerospace organisations working on civil aviation, defence avionics, or flight-critical embedded systems.
 
 **Ideal role titles:**
 - Systems Engineer / Avionics Systems Engineer
@@ -70,7 +70,7 @@ I'm targeting roles in **major aerospace MNCs** — organisations like Airbus, H
 - Safety-critical embedded systems
 - Systems integration and V&V
 
-**Location preference:** Bengaluru or Pune (open to relocation within India)
+**Location preference:** Bengaluru, Chennai, or Pune (open to relocation within India)
 
 ---
 
@@ -86,7 +86,7 @@ I'm targeting roles in **major aerospace MNCs** — organisations like Airbus, H
 | **Key tools** | Capella, MATLAB/Simulink, PX4, Git |
 | **Key standards** | ARP4754A, DO-178C, ARINC 429, MIL-STD-1553B |
 | **Programming** | C++, Python, Ada |
-| **Location** | Pune, India (open to Bengaluru) |
+| **Location** | Pune, India (open to Bengaluru, Chennai) |
 | **Notice period** | Please contact to confirm current status |
 
 ---
